@@ -7,9 +7,9 @@ ofrecemos servicio a todo mexico las 24/7 tenemos 10 años de experiencia contam
 
 somos los mas capacitados  para tu equipo de computo y damos soluciones a cualquier problema de software y hardware 
 
-### Markdown
+### Annuar-technical-support 
+se preocupa por el bien de los equipos de computo  y se los entregamos como nuevos y al maximo para su funcionamiento diario y damos garantias por cualquier accidente con el equipo 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
