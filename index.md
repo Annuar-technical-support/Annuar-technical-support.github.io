@@ -4,7 +4,7 @@
 
 ofrecemos servicio a todo mexico las 24/7 tenemos 10 años de experiencia contamos con los mejores tecnicos del pais y te ofrecemos el mejor servicio para tu equipo  de computo  y te damos una garantia de un  1 año 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+somos los mejores para tu equipo de computo y demas equipos 
 
 ### Markdown
 
