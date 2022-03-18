@@ -2,7 +2,7 @@
 
 ## Bienvenidos a Annuar-technical-support
 
-You can use the [editor on GitHub](https://github.com/Annuar-technical-support/Annuar-technical-support.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ofrecemos servicio a todo mexico las 24/7 tenemos 10 años de experiencia contamos con los mejores tecnicos del pais y te ofrecemos el mejor servicio para tu equipo  de computo  y te damos una garantia de un  1 año 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
