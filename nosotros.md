@@ -11,5 +11,8 @@ ser los mejores proveedores de servicio  atodo el mundo  para lograrlo hemos est
 
 nuestros valores son 
  atender  a nuestros clientes con una sonrisa y con buena actitud 
+ 
  siempres apoyarlos en cualquier duda que tengan 
+ 
+ por cualquier accidente que sufra el equipo tiene una garantia con nosotros 
  
