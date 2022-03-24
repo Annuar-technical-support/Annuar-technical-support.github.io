@@ -2,7 +2,10 @@
 
 ## Annuar-technical-support
 
-- 1¿El ordenador va muy lento?
+- 1¿El ordenador va muy lento? Solución
+Limpieza de software virus, spyware, etc.  
+Reparación o cambio de disco duro.  
+Recuperación de los sectores dañados  
 
 - 2¿Ruidos extraños en la computadora?
 
@@ -12,27 +15,47 @@
 
 - 5¿El ordenador se reinicia automáticamente?
 
-- 6¿La computadora se apaga sola o se reinicia cada dos por tres?
+- 6¿La computadora se apaga sola o se reinicia? Solución.  
+Cambio de fuente de poder   
+Limpieza de software  
+Limpieza de programas de inicio de Windows  
 
 - 7¿Fallas con la tarjeta gráfica?
 
-- 8¿Computadora infectada con virus?
+- 8¿Computadora infectada con virus?solucion instale un antivirus
+Descargue e instale un analizador de virus
+Desconéctese de Internet
+Reiniciar el ordenador en el modo seguro
+Elimine todos los archivos temporales
+Ejecute un análisis antivirus
+Elimine el virus o póngalo en cuarentena
 
-- 9¿Fallo en el disco duro?
+- 9¿Fallo en el disco duro? solucion 
+Formatear el disco duro
+Ejecutar reparación de disco
 
-- 10¿La computadora no enciende?
+- 10¿La computadora no enciende? solucion 
+revisa que los cables esten bien conectados 
+Revisar la corriente y la fuente Revisa las conexiones de la fuente de poder 
 
-- 11¿Problemas con el ratón y el teclado?
+- 11¿Problemas con el ratón y el teclado? solucion Lo primero que deberíamos probar es a conectar otro teclado o ratón al ordenador y comprobar si este funciona. Así podemos empezar a aislar el problema. Si el nuevo periférico funciona, la causa está directamente con el teclado o ratón de nuestro ordenador
 
 - 12¿Fallas en la tarjeta de video?
 
-- 13¿Problemas con las unidades de CD/DVD?
+- 13¿Problemas con las unidades de CD/DVD? Retire y vuelva a insertar el disco.
+Reinicie la computadora e intente volver a acceder a la unidad.
+Es posible que el lente de la unidad tenga un poco de polvo y es necesario limpiarlo.
+Quite todo el hardware de otro fabricante.
+Restablezca el BIOS de la computadora a sus valores predeterminados de fábrica.
+
 
 - 14¿Los programas se cierran solos?
 
 - 15¿Incapacidad para conectarse a internet?
 
-- 16¿El TECLADO NO RESPONDE?
+- 16¿El TECLADO NO RESPONDE?Cambia el teclado de puerto USB. Es lo primero que deberías probar
+Prueba el teclado en otro PC o en una consola. Esto es lo segundo que deberías Comprobar los componentes de Windows
+Reinstala el driver si tu teclado no funciona.
 
 - 17¿Problemas en la placa base?
 
@@ -69,4 +92,33 @@
 
 Recuperación de sistema.  
 
-Instalación y conflagración de sistema operativo   
+Instalación y conflagración de sistema operativo 
+
+- 33¿LA IMPRESORA NO IMPRIME?
+
+- 34¿Windows tarda mucho en iniciar y cerrar? 
+- Solución.-   
+Optimización de programas de inicio.  
+Limpieza de software (virus, spyware, pop ups, etc.)  
+Darle un buen mantenimiento
+
+- 35¿Video pixelado? Solución.  
+Cambio de memoria RAM  
+Revisión tarjeta de vídeo 
+
+- 36¿El video se queda pasmado?Solución.  
+Revisión tarjeta de vídeo.  
+Cambio de memoria RAM.  
+Revisión de temperatura CPU.  
+
+ - 37¿Ya no enciende el CPU?Solución.  
+Cambio de fuente de poder o Motherboard.  
+puedes revisar los cables de corriente que van al gabinete, ve que estén bienapretados y hagan contacto.   
+
+- 38¿El vídeo se ve amarillo?
+
+- 39¿Perdida de Información?
+
+- 40¿No funciona una aplicación?
+
+- 41¿No produce sonido?
