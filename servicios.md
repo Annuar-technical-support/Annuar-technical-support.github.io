@@ -4,13 +4,13 @@
 
 Nuestros servicios son:
 
-Soporte tecnico presencial 
+# Soporte tecnico presencial 
 
-Soporte tecnicoa distancia 
+## Soporte tecnicoa distancia 
 
-Damos mantenimiento preventivo este mantenimiento sirve para que la computadora este en optimas condiciones y no sufra cualquier falla 
+### Damos mantenimiento preventivo este mantenimiento sirve para que la computadora este en optimas condiciones y no sufra cualquier falla 
 
-Damos mantenimiento correctivo  este tipo de mantenimiento sirve cuando la computadora ya tiene una falla 
+#### Damos mantenimiento correctivo  este tipo de mantenimiento sirve cuando la computadora ya tiene una falla 
 
 Cambio de la tarjeta madre
 
