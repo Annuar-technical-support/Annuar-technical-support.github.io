@@ -49,3 +49,5 @@ Reparacion de disco duro dañado
 Reparacion de la tarjeta madre dañada 
 
 Reparacion de los puentes usb 
+
+Ensamble de equipos de computo 
