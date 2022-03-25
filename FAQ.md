@@ -61,7 +61,7 @@ Restablezca el BIOS de la computadora a sus valores predeterminados de fábrica.
 Prueba el teclado en otro PC o en una consola. Esto es lo segundo que deberías Comprobar los componentes de Windows
 Reinstala el driver si tu teclado no funciona.
 
-- 17¿Problemas en la placa base? Si el ordenador no enciende Inspecciona los componentes físicos de la placa
+- 17¿Problemas en la placa base? Si el ordenador no enciende Inspecciona los componentes físicos de la placa Si se enciente, verifica que todo está conectado.Escuchas pitidos al arrancar.Haz un Clear CMOS o CLRPWD.Disipador bien puesto y el ventilador conectado Socket en buen estado.
 
 - 18¿Aparecen pantallas de error, los programas se tildan y se cierran?  
 
