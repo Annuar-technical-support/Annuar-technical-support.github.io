@@ -5,9 +5,6 @@ Nombre: <input type="text" nombre="name"><br>
  
  apellido: <input type="text" nombre="name"><br>
  
- 
-E-mail: <input type="text" nombre="email"><br>
-<input type="submit">
 
 
 <form action="/action_page.php">
@@ -21,7 +18,10 @@ E-mail: <input type="text" nombre="email"><br>
   <input type="date" id="fecha de servicio" name="fecha de servicio">
   <input type="submit" value="Submit">
   
-  
+ 
+  E-mail: <input type="text" nombre="email"><br>
+<input type="submit">
+
   
   
   
