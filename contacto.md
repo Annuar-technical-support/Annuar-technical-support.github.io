@@ -16,7 +16,7 @@ Nombre: <input type="text" nombre="name"><br>
 <form action="/action_page.php">
   <label for="fecha de servicio ">fecha de servicio :</label>
   <input type="date" id="fecha de servicio" name="fecha de servicio">
-  <input type="submit" value="Submit">
+
   
  
   E-mail: <input type="text" nombre="email"><br>
